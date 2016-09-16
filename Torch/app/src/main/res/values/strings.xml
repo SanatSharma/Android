@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Torch</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_off">Torch off</string>
+    <string name="text_on">Torch On</string>
+</resources>
